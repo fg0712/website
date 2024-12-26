@@ -1,0 +1,6 @@
+h1{
+    color: rgb(242, 244, 242);
+    font-size: 30px;
+    background:linear-gradient(to right, rgb(35, 23, 23), rgb(55, 219, 5));
+    width: max-content;
+}
