@@ -3,4 +3,6 @@ h1{
     font-size: 30px;
     background:linear-gradient(to right, rgb(35, 23, 23), rgb(55, 219, 5));
     width: max-content;
+    padding: 25px;
+    border-radius: 10px;
 }
